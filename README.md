@@ -15,3 +15,7 @@ Curso feito no Coursera / py4e.com.
 
 ## Certificado
 (Link do certificado Coursera ou nota que foi auditado)
+
+Exercícios do módulo 3 do curso Python for Everybody
+hello.py
+name.py
