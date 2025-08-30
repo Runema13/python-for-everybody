@@ -5,7 +5,6 @@ Curso feito no Coursera / py4e.com.
 ## O que aprendi
 - Fundamentos de Python (variáveis, loops, funções).
 - Manipulação de arquivos.
-- Uso de APIs e JSON.
 - Introdução a bancos de dados com Python.
 
 ## Projetos
@@ -19,6 +18,14 @@ Curso feito no Coursera / py4e.com.
 Exercícios do módulo 3 do curso Python for Everybody
 hello.py
 name.py
+_3_1.py
+_3_2.py
+_4_1.py
+_4_2.py
+_5_1.py
+_5_2.py
+_6_1.py
+_6_2.py
 
 # Python for Everybody (Univ. of Michigan)
 
@@ -27,8 +34,8 @@ Repositório com meus exercícios do curso de Python for Everybody.
 ## Progresso
 - [x] Módulo 1: Capitulo 1 - Por que programamos?
 - [x] Módulo 2: Instalação do Python
-- [ ] Módulo 3: Capitulo Um - Por que programamos? (continuação
-- [ ] Módulo 4: Capitulo Dois: Variáveis e expressões
-- [ ] Módulo 5: Capitulo Tres: Código condicional
-- [ ] Módulo 6: Capitulo Quatro: Funções
-- [ ] Módulo 7: Capitulo Cinco: Loops e iteração
+- [x] Módulo 3: Capitulo Um - Por que programamos? (continuação
+- [x] Módulo 4: Capitulo Dois: Variáveis e expressões
+- [x] Módulo 5: Capitulo Tres: Código condicional
+- [x] Módulo 6: Capitulo Quatro: Funções
+- [x] Módulo 7: Capitulo Cinco: Loops e iteração
