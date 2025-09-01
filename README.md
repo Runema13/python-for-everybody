@@ -8,7 +8,7 @@ Curso feito no Coursera / py4e.com.
 - Introdução a bancos de dados com Python.
 
 ## Certificado
-(Link do certificado Coursera ou nota que foi auditado)
+[(Link do certificado Coursera ou nota que foi auditado)](https://www.coursera.org/account/accomplishments/verify/N16XLVYE9ST6)
 
 ##Exercícios do módulo 3 do curso Python for Everybody
 hello.py
