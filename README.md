@@ -12,20 +12,24 @@ Curso feito no Coursera / py4e.com.
 
 ##Exercícios do módulo 3 do curso Python for Everybody
 
-#hello.py
+hello.py
 
 name.py
 
-#
 _3_1.py
-#
+
 _3_2.py
 
 _4_1.py
+
 _4_2.py
+
 _5_1.py
+
 _5_2.py
+
 _6_1.py
+
 _6_2.py
 
 # Python for Everybody (Univ. of Michigan)
