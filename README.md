@@ -11,8 +11,11 @@ Curso feito no Coursera / py4e.com.
 [(Link do certificado Coursera auditado)](https://www.coursera.org/account/accomplishments/verify/N16XLVYE9ST6)
 
 ##Exercícios do módulo 3 do curso Python for Everybody
+
 #hello.py
+
 name.py
+
 #
 _3_1.py
 #
